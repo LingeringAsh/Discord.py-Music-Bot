@@ -50,5 +50,5 @@ async def node(ctx, uri: str, password: str):
     except Exception as e:
         await ctx.send(f"Failed to connect to Node: {e}")
 #-----------------------------------------------------------------
-bot.run("MTAyMTgyNzU0MzI2NDk0MDAzMg.Gj4rC2.Nx7KERkmbEsEWLWHSZjoBXg1KX3UStc4XbYkFs")
+bot.run("")
  
